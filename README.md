@@ -16,12 +16,12 @@
 
 ## 🚀 About Me
 
-- ⚒️ I'm currently a **Data Analytics & Actuarial Science Student** at Bentley University.
-- 🌱 I'm learning **Machine Learning, Predictive Modeling, and Business Intelligence**.
-- 📚 Preparing for **SOA Exam P (Probability) in May 2025**.
-- 📊 Passionate about **financial risk analysis and actuarial modeling**.
-- 🗣️ Ask me about **data science, actuarial exams, and predictive analytics**.
-- ⚡ Fun fact: **I love to dance!💃**
+- I'm currently a **Data Analytics & Actuarial Science Student** at Bentley University.
+- I'm learning **Machine Learning, Predictive Modeling, and Business Intelligence**.
+- Preparing for **SOA Exam P (Probability) in May 2025**.
+- Passionate about **financial risk analysis and actuarial modeling**.
+- Ask me about **data science, actuarial exams, and predictive analytics**.
+- Fun fact: **I love to dance!💃**
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajUxc3F1Z2Zobnl6MmhxbHEwdnJlMmJybTc3MDY1ejZwdTJ0ZDRvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvckSy7fFviqrq8ClF/giphy.gif" width="200" />
@@ -30,24 +30,24 @@
 ---
 ## 🛠️ What I'm Working On
 
-- 📈 **Analyzing healthcare trust & vaccine behavior** using multivariate regression models
-- 🤖 **Applying machine learning** to large-scale health datasets
-- 📚 **Tutoring students** in Calculus, Statistics, and Actuarial Exam Prep (Exam P & FM)
-- 🎯 **Expanding expertise** in actuarial science and predictive analytics
+- **Analyzing healthcare trust & vaccine behavior** using multivariate regression models
+- **Applying machine learning** to large-scale health datasets
+- **Tutoring students** in Calculus, Statistics, and Actuarial Exam Prep (Exam P & FM)
+- **Expanding expertise** in actuarial science and predictive analytics
 
 ---
 
 ## 🌟 My Journey So Far
 
-💡 **Research Assistant (NIH-Funded Project)** - Built 50+ regression models analyzing demographic trends.<br>
-📊 **Research Assistant (Academic Tech Center)** - Developed predictive models improving accuracy by 13%.<br>
-📚 **Math Tutor** - Teaching Calculus, Statistics, and Actuarial Exam Prep.<br>
-🏡 **Resident Assistant** - Mentoring and fostering a strong student community.<br>
-📉 **Data Science Intern (Sanima, Peru)** - Boosted market share by 15% through data-driven marketing.<br>
+ **Research Assistant (NIH-Funded Project)** - Built 50+ regression models analyzing demographic trends.<br>
+ **Research Assistant (Academic Tech Center)** - Developed predictive models improving accuracy by 13%.<br>
+ **Math Tutor** - Teaching Calculus, Statistics, and Actuarial Exam Prep.<br>
+ **Resident Assistant** - Mentoring and fostering a strong student community.<br>
+ **Data Science Intern (Sanima, Peru)** - Boosted market share by 15% through data-driven marketing.<br>
 
 ---
 
-## 📬 How to Reach Me
+## How to Reach Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arpa-banik/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
@@ -57,7 +57,7 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
